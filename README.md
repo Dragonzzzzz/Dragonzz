@@ -147,17 +147,16 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
  10:00-11:30 S
  13:30-15:30 B
  16:00-17:30 C
- 20:30-23:00 A
+20:30-23:00 A
 26th Sep
-    1:00-3:00 S
-    3:30-5:00 S
+1:00-3:00 S
+3:30-5:00 S
 10:30-12:30 Research S
 13:30-16:30 Research S
 18:00-19:00 GRE 
 19:00-19:30 GRE view
 20:00-22:00 QM S
 22:00-23:00 QM
-
 27th Sep
 7:00-8:00 GRE
 8:00-9:00 QM S
@@ -170,7 +169,6 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 16:30-17:30 A
 17:30-18:30 A
 21:30-23:00 S
-
 28th Sep
 10:00-11:00 S
 11:00-12:00 S
