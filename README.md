@@ -18,13 +18,11 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 15:30-17:30 D
 23:00-0:00 B
 0:00-1:00
-
 7th Sep:
 10:00-11:00 A
 11:00-12:00 A
 20:00-21:00 A
 21:00-22:00 A
-
 8th Sep:
 1:15-2:15 A
 9:45-10:30 A
@@ -32,10 +30,8 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 15:00-18:00 B
 18:00-20:00 A
 20:00-22:00 A
-
 9th Sep:
 14:40-17:00 B
-
 10th Sep
 2:00-3:00 C
 13:30-15:00 C
@@ -43,18 +39,15 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 18:00-19:00 B
 22:00-23:00 C
 23:00-24:00 C
-
 11th Sep
 22:00-23:00 S
 23:00-24:00 S
-
 12th Sep
 0:00-1:00 S
 10:00-12:00 A
 13:30-15:00 B
 15:00-17:00 A
 17:00-18:00 B
-
 13th Sep
 0:00-2:00 B
 12:00-13:30 B
@@ -63,15 +56,12 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 19:00-21:00 B
 21:00-22:00 A
 22:00-24:00 B
-
 14th Sep
 0:00-1:00 A
 19:00-20:00 A
 21:00-22:00
-
 15th Sep
 10:30-11:30 B
-
 16th Sep
 1:00-2:00 S
 2:00-3:00 S
@@ -81,7 +71,6 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 11:00-12:00 A
 13:00-15:00 A
 15:00-16:00 
-
 18th Sep
 9:30-11:30 A
 11:30-12:30 S
@@ -91,7 +80,6 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 18:30-20:00 B
 20:00-22:00 B
 22:00-23:00 B
-
 19th Sep
 11:00-13:00 A
 13:00-15:00 B
@@ -99,12 +87,10 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 17:00-19:00 S
 20:00-22:00 S
 22:00-23:00 S
-
 20th Sep
 9:00-10:00 B
 10:00-12:00 A
 20:00-22:00 S
-
 21st Sep
 9:00-10:00 B
 10:30-12:30 C
@@ -112,7 +98,6 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 16:00-17:00 B
 20:00-22:00 S
 22:00-23:00 S
-
 22nd Sep
   1:00-2:00 S
   9:00-10:30 A
@@ -123,19 +108,17 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 17:30-19:00 
 19:00-21:00 S
 22:30-23:30 Del in diff coordinates
-
 23rd Sep
-  9:30-11:30 A
+9:30-11:30 A
 12:00-13:00 A
 13:30-15:00 A
 15:00-17:00 B
 17:00-18:00 A
 19:00-21:00 A
 21:00-22:30 S
-
 24th Sep
-  8:30-9:30 S
-  9:30-12:00 S
+8:30-9:30 S
+9:30-12:00 S
 13:00-14:30 S
 15:00-16:00 S
 16:30-17:30 S
@@ -143,10 +126,10 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 20:00-22:00 C
 22:00-23:00
 25th Sep
-  8:00-9:30 A
- 10:00-11:30 S
- 13:30-15:30 B
- 16:00-17:30 C
+8:00-9:30 A
+10:00-11:30 S
+13:30-15:30 B
+16:00-17:30 C
 20:30-23:00 A
 26th Sep
 1:00-3:00 S
