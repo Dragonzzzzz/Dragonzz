@@ -10,10 +10,11 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 12:30-13:30 A GRE QM<br />
 14:00-16:00 S QMA <br />
 16:30-17:30 S Method II <br />
-17:30-18:30 GRE lab
+17:30-18:30 Method II
 18:30-19:30 RQM
 19:30-20:30 Research
 20:30-21:30 Review Method II <br />
+21:30-22:30 GRE lab <br />
 From here upwards I will use chronological order from recent to past.
 3th Sep:<br />
 8pm-9pm B<br />
