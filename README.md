@@ -1,7 +1,21 @@
 # Dragonzz
 This is to end my five years of time-wasting, lazziness and negativeness. To work hard for what I want until the end of my day, from this day onwards. I had a 10 year agreement, for which I still have 4 years left. The next 4 years shall be harsh, both to compensate for the past and to build a meaningful future to my definition.
 
-2021:
+2021:<br />
+2nd Oct<br />
+8:00-9:00 S GR<br />
+9:00-10:00 S GR+Santander<br />
+10:00-11:00 S GRE Voc<br />
+11:00-12:00 S data science<br />
+12:30-13:30 A GRE QM<br />
+14:00-16:00 S QMA <br />
+16:30-17:30 S Method II <br />
+17:30-18:30 Method II A <br />
+18:30-19:30 RQM <br />
+19:30-20:30 Research <br />
+20:30-21:30 Review Method II <br />
+21:30-22:30 Application S <br />
+From here upwards I will use chronological order from recent to past.
 3th Sep:<br />
 8pm-9pm B<br />
 9pm-10pm A<br />
