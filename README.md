@@ -10,7 +10,8 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 18:30-19:30 S EM p78 <br />
 19:30-20:30 S Data Scientists Toolbox <br />
 20:30-21:30 S GRE Voc <br />
-21:30-23:30 S GR <br />
+21:30-22:30 S Gym <br />
+22:30-23:30 S GR <br />
 2nd Oct<br />
 8:00-9:00 S GR<br />
 9:00-10:00 S GR+Santander<br />
