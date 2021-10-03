@@ -2,6 +2,9 @@
 This is to end my five years of time-wasting, lazziness and negativeness. To work hard for what I want until the end of my day, from this day onwards. I had a 10 year agreement, for which I still have 4 years left. The next 4 years shall be harsh, both to compensate for the past and to build a meaningful future to my definition.
 
 2021:<br />
+3rd Oct<br />
+8:00-9:00 S GRE voc<br /> 
+9:00-12:30 S GRE Physics Mock <br />
 2nd Oct<br />
 8:00-9:00 S GR<br />
 9:00-10:00 S GR+Santander<br />
