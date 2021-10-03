@@ -7,7 +7,7 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 9:00-12:30 S GRE Physics Mock <br />
 13:00-14:00 S GRE <br />
 14:00-18:00 S Research <br />
-18:30-20:15 S EM <br />
+18:30-20:15 S EM p78 <br />
 20:30-21:30 S GRE Voc <br />
 21:30-23:30 S GR <br />
 2nd Oct<br />
