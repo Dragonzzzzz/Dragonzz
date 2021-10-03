@@ -23,7 +23,7 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 19:30-20:30 Research <br />
 20:30-21:30 Review Method II <br />
 21:30-22:30 Application S <br />
-From here upwards I will use chronological order from recent to past.
+From here upwards I will use chronological order from recent to past.<br />
 3th Sep:<br />
 8pm-9pm B<br />
 9pm-10pm A<br />
