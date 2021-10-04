@@ -10,8 +10,8 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 11:00-12:00 S RQM<br />
 12:00-13:00 S Team<br />
 13:00-14:00 S GRE Voc<br />
-14:00-19:00 Project S<br />
-19:00-20:00 RQM<br />
+14:00-19:00 S Project<br />
+19:00-20:00 S RQM<br />
 20:00-20:50 GRE physics<br />
 22:30-23:30 GRE physics<br />
 3rd Oct<br />
