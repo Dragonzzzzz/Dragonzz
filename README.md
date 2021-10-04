@@ -2,6 +2,30 @@
 This is to end my five years of time-wasting, lazziness and negativeness. To work hard for what I want until the end of my day, from this day onwards. I had a 10 year agreement, for which I still have 4 years left. The next 4 years shall be harsh, both to compensate for the past and to build a meaningful future to my definition.
 
 2021:<br />
+15th Nov<br />
+7:00-8:00 Winter/Summer Research <br />
+5th Oct<br />
+7:00-8:00 GR <br />
+8:00-9:00 RQM <br />
+9:00-10:00 GRE physics<br />
+10:00-11:00 RQM live<br />
+11:00-11:30 Barclay<br />
+11:30-12:30 GRE Voc<br />
+12:30-14:00 GR<br />
+14:00-15:00 GR live<br />
+15:00-17:00 <br />
+17:30-19:00 <br />
+19:00-20:40 <br />
+4th Oct<br />
+9:00-10:00 S GR<br />
+10:00-11:00 S GR<br />
+11:00-12:00 S RQM<br />
+12:00-13:00 S Team<br />
+13:00-14:00 S GRE Voc<br />
+14:00-19:00 S Project<br />
+19:00-20:00 S RQM<br />
+20:00-20:50 S GRE physics<br />
+22:30-23:30 S GRE physics<br />
 3rd Oct<br />
 8:00-9:00 S GRE voc<br /> 
 9:00-12:30 S GRE Physics Mock <br />
