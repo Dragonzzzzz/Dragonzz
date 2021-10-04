@@ -6,7 +6,7 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 7:00-8:00 Winter/Summer Research <br />
 5th Oct<br />
 7:00-8:00 GR <br />
-8:00-9:00 RQM <br />
+8:00-9:00 Electrodynamics <br />
 9:00-10:00 GRE physics<br />
 10:00-11:00 RQM live<br />
 11:00-11:30 Barclay<br />
