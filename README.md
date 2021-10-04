@@ -24,7 +24,7 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 13:00-14:00 S GRE Voc<br />
 14:00-19:00 S Project<br />
 19:00-20:00 S RQM<br />
-20:00-20:50 S GRE physics<br />
+20:00-20:50 S GRE physics page 86<br />
 22:30-23:30 S GRE physics<br />
 3rd Oct<br />
 8:00-9:00 S GRE voc<br /> 
