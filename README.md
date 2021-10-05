@@ -9,6 +9,7 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 8:00-10:00 Methods:Bessel<br />
 10:00-11:00 Project Meeting<br />
 13:00-16:00 Thermal Physics II <br />
+16:00-17:00 GR supplementray <br />
 5th Oct<br />
 9:00-10:00 S Electrodynamics<br />
 10:00-11:00 A RQM live<br />
