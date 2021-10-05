@@ -14,6 +14,8 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 15:00-17:00 GRE<br />
 17:30-19:30 GRE<br />
 19:30-20:40 Research<br />
+20:50-21:50 GRE Voc<br />
+22:00-23:00 QMA<br />
 4th Oct<br />
 9:00-10:00 S GR<br />
 10:00-11:00 S GR<br />
