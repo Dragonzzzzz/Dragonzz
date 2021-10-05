@@ -17,8 +17,8 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 12:30-14:00 A GR<br />
 14:00-15:00 S GR live<br />
 15:00-17:00 B GRE page131 <br />
-17:30-19:30 S GRE<br />
-19:30-20:40 GR<br />
+17:30-19:30 S GRE Q15<br />
+19:30-20:40 S GR<br />
 20:50-21:50 GRE Voc<br />
 22:00-23:00 RQM<br />
 4th Oct<br />
