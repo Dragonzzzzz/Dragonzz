@@ -8,10 +8,10 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 7:00-8:00 Review LA<br />
 5th Oct<br />
 9:00-10:00 S Electrodynamics<br />
-10:00-11:00 RQM live<br />
+10:00-11:00 A RQM live<br />
 11:00-11:30 Barclay<br />
-11:30-12:30 GRE Voc<br />
-12:30-14:00 GR<br />
+11:30-12:30 S GRE Voc<br />
+12:30-14:00 A GR<br />
 14:00-15:00 GR live<br />
 15:00-17:00 GRE page131 <br />
 17:30-19:30 GRE<br />
