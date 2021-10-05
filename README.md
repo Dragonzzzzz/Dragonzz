@@ -4,6 +4,8 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 2021:<br />
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+6th Oct
+7:00-8:00 Review LA<br />
 5th Oct<br />
 9:00-10:00 S Electrodynamics<br />
 10:00-11:00 RQM live<br />
