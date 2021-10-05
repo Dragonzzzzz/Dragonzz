@@ -11,7 +11,7 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 11:30-12:30 GRE Voc<br />
 12:30-14:00 GR<br />
 14:00-15:00 GR live<br />
-15:00-17:00 GRE<br />
+15:00-17:00 GRE page131 <br />
 17:30-19:30 GRE<br />
 19:30-20:40 Research<br />
 20:50-21:50 GRE Voc<br />
