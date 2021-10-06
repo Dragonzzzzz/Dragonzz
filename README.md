@@ -19,6 +19,7 @@ QMA;Standard Model;Hamiltonian<br />
 10:00-11:00 S Project Meeting<br />
 17:00-18:00 A GR supplementray <br />
 18:00-20:00 A Thermal Physics II<br />
+21:00-23:00 S Thermal Physics II<br />
 5th Oct<br />
 9:00-10:00 S Electrodynamics<br />
 10:00-11:00 A RQM live<br />
