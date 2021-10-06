@@ -4,13 +4,21 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 2021:<br />
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+7th Oct
+8:00-9:00 GRE Voc <br />
+9:00-12:00 Research <br />
+13:00-14:00 GRE phy <br />
+14:00-16:00 Matlab Training <br />
+16:30-18:40 GRE phy <br />
+18:55-19:55 <br />
+20:00-22:00 <br />
 6th Oct <br />
 QMA;Standard Model;Hamiltonian<br />
 7:00-8:00 A GRE voc<br />
 8:00-10:00 B Methods:Bessel<br />
 10:00-11:00 S Project Meeting<br />
 17:00-18:00 A GR supplementray <br />
-18:00-20:00 Thermal Physics II<br />
+18:00-20:00 A Thermal Physics II<br />
 5th Oct<br />
 9:00-10:00 S Electrodynamics<br />
 10:00-11:00 A RQM live<br />
