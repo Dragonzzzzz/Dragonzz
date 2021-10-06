@@ -7,11 +7,11 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 7th Oct
 8:00-9:00 GRE Voc <br />
 9:00-12:00 Research <br />
-13:00-14:00 GRE phy <br />
+13:00-14:00 GRE phy:non inertial frame <br />
 14:00-16:00 Matlab Training <br />
-16:30-18:40 GRE phy <br />
+16:30-18:40 GRE phy thermal physics II <br />
 18:55-19:55 <br />
-20:00-22:00 <br />
+20:00-22:00 GRE problems<br />
 6th Oct <br />
 QMA;Standard Model;Hamiltonian<br />
 7:00-8:00 A GRE voc<br />
