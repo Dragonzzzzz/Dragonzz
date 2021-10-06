@@ -9,7 +9,8 @@ QMA;Standard Model;Hamiltonian<br />
 7:00-8:00 A GRE voc<br />
 8:00-10:00 B Methods:Bessel<br />
 10:00-11:00 S Project Meeting<br />
-17:00-18:00 S GR supplementray <br />
+17:00-18:00 A GR supplementray <br />
+18:00-20:00 Thermal Physics II<br />
 5th Oct<br />
 9:00-10:00 S Electrodynamics<br />
 10:00-11:00 A RQM live<br />
