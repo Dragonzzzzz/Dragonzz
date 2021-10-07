@@ -10,6 +10,8 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 12:00-13:00 A RQM<br />
 13:00-14:00 S RQM <br />
 14:00-16:00 S Matlab Training <br />
+14:00-15:00 S RQM<br />
+15:00-16:00 S GR<br />
 16:00-17:00 GRE phy:non inertial frame <br />
 17:00-18:45 Research<br />
 18:45-19:45 GRE voc<br />
