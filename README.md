@@ -7,10 +7,10 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 7th Oct
 8:00-9:00 S GRE Voc <br />
 9:00-12:00 C Research <br />
-12:00-13:00 RQM<br />
-13:00-14:00 GRE phy:non inertial frame <br />
+12:00-13:00 A RQM<br />
+13:00-14:00 S RQM <br />
 14:00-16:00 Matlab Training <br />
-16:00-17:00 RQM <br />
+16:00-17:00 GRE phy:non inertial frame <br />
 18:55-19:55 <br />
 20:00-22:00 GRE problems<br />
 6th Oct <br />
