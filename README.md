@@ -16,8 +16,8 @@ Notation Q6 Q7 <br />
 15:00-16:00 S GR<br />
 16:00-17:00 S GRE phy:non inertial frame <br />
 17:00-18:45 S Research<br />
-18:45-19:45 GRE voc<br />
-20:00-22:00 GRE problems<br />
+18:45-19:45 S GRE voc<br />
+20:00-22:00 A GRE problems<br />
 6th Oct <br />
 QMA;Standard Model;Hamiltonian<br />
 7:00-8:00 A GRE voc<br />
