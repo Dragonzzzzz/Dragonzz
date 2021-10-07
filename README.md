@@ -14,8 +14,8 @@ Notation Q6 Q7 <br />
 14:00-16:00 S Matlab Training <br />
 14:00-15:00 S RQM<br />
 15:00-16:00 S GR<br />
-16:00-17:00 GRE phy:non inertial frame <br />
-17:00-18:45 Research<br />
+16:00-17:00 S GRE phy:non inertial frame <br />
+17:00-18:45 S Research<br />
 18:45-19:45 GRE voc<br />
 20:00-22:00 GRE problems<br />
 6th Oct <br />
