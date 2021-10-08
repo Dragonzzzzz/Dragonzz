@@ -6,7 +6,7 @@ Notation Q6 Q7 <br />
 2021:<br />
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
-9th Oct
+9th Oct<br />
 9:00-11:00 Methods <br />
 11:00-12:00 Thermal: Carnot;Statistical <br />
 13:00-15:00<br />
