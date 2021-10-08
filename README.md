@@ -15,6 +15,7 @@ Notation Q6 Q7 <br />
 15:00-17:00 S Programming <br />
 18:30-19:30 S GRE physics classical <br />
 19:30-21:30 S Research <br />
+21:30-22:30 S GRE physics Past Paper <br />
 7th Oct
 8:00-9:00 S GRE Voc <br />
 9:00-12:00 C Research <br />
