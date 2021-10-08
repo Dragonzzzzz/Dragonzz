@@ -7,11 +7,12 @@ Notation Q6 Q7 <br />
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
 9th Oct<br />
-9:00-11:00 Methods <br />
-11:00-12:00 Thermal: Carnot;Statistical <br />
-13:00-15:00 GRE physics Q27 <br />
-15:00-17:00 GR<br />
-17:00-18:45<br />
+**Methods;GR;Programming;GRE Q review;GRE concepts;Thermal;EM;Research**
+9:00-11:00 <br />
+11:00-12:00 <br />
+13:00-15:00 <br />
+15:00-17:00 <br />
+17:00-18:45 <br />
 8th Oct
 11:00-13:00 S GRE physics non-inertial <br />
 13:00-14:00 S GRE physics Classical <br />
