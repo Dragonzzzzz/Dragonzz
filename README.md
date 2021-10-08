@@ -6,6 +6,8 @@ Notation Q6 Q7 <br />
 2021:<br />
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+9th Oct
+9:00-12:00 Methods <br />
 8th Oct
 11:00-13:00 S GRE physics non-inertial <br />
 13:00-14:00 S GRE physics Classical <br />
