@@ -9,8 +9,8 @@ Notation Q6 Q7 <br />
 9th Oct<br />
 9:00-11:00 Methods <br />
 11:00-12:00 Thermal: Carnot;Statistical <br />
-13:00-15:00<br />GRE physics Q27 <br />
-15:00-17:00<br />
+13:00-15:00 GRE physics Q27 <br />
+15:00-17:00 GR<br />
 17:00-18:45<br />
 8th Oct
 11:00-13:00 S GRE physics non-inertial <br />
