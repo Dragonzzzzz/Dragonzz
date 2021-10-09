@@ -8,7 +8,8 @@ Notation Q6 Q7 <br />
 7:00-8:00 Winter/Summer Research <br />
 9th Oct<br />
 **Methods;GR;Programming;GRE Q review;GRE concepts;Thermal;EM;Research**<br />
-9:00-11:00 <br />
+9:00-10:00 S GRE voc <br />
+10:00-11:00 Meeting<br />
 11:00-12:00 <br />
 13:00-15:00 <br />
 15:00-17:00 <br />
