@@ -3,6 +3,7 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 14 days from GRE Phys<br />
 **GR** <br />
 Notation Q6 Q7 <br />
+Contour Integration then Q9 of supplement <br />
 2021:<br />
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
