@@ -11,7 +11,7 @@ Notation Q6 Q7 <br />
 9:00-10:00 S GRE voc <br />
 10:00-11:00 C Meeting<br />
 11:00-12:30 S Data Science<br />
-13:00-15:00 <br />
+13:00-15:00 S Methods<br />
 15:00-17:00 <br />
 17:00-18:45 <br />
 8th Oct
