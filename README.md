@@ -7,6 +7,8 @@ Contour Integration then Q9 of supplement <br />
 2021:<br />
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+10th Oct<br />
+**GR Videos**
 9th Oct<br />
 **Methods;GR;Programming;GRE Q review;GRE concepts;Thermal;EM;Research**<br />
 9:00-10:00 S GRE voc <br />
