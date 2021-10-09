@@ -8,7 +8,10 @@ Contour Integration then Q9 of supplement <br />
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
 10th Oct<br />
-**GR Videos, Supplement for Week 2, Questions**
+**GR Videos, Supplement for Week 2, Questions**<br />
+**Methods;Research**<br />
+**RQM**<br />
+**EM**<br />
 9th Oct<br />
 **Methods;GR;Programming;GRE Q review;GRE concepts;Thermal;EM;Research**<br />
 9:00-10:00 S GRE voc <br />
@@ -18,6 +21,8 @@ Contour Integration then Q9 of supplement <br />
 15:00-16:00 S Methods<br />
 16:00-17:30 S GR <br />
 17:30-18:45 S GR <br />
+18:55-20:00 S GRE Voc <br />
+20:00-22:00 GRE physics <br />
 8th Oct
 11:00-13:00 S GRE physics non-inertial <br />
 13:00-14:00 S GRE physics Classical <br />
