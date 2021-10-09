@@ -12,7 +12,8 @@ Notation Q6 Q7 <br />
 10:00-11:00 C Meeting<br />
 11:00-12:30 S Data Science<br />
 13:00-15:00 B Methods<br />
-15:00-17:00 S Methods<br />
+15:00-16:00 S Methods<br />
+16:00-17:00 GR <br />
 17:00-18:45 <br />
 8th Oct
 11:00-13:00 S GRE physics non-inertial <br />
