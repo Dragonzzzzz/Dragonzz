@@ -13,7 +13,7 @@ Contour Integration then Q9 of supplement <br />
 **RQM**<br />
 **EM**<br />
 9:00-12:00 S GRE Physics Mock<br />
-14:00-16:00 S Methods-Complex Variable Theory <br />
+14:00-16:00 S Methods-Complex Variable Theory Page 477 Page647 <br />
 16:30-17:30 CS<br />
 18:30-21:30 Paper <br />
 9th Oct<br />
