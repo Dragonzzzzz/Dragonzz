@@ -14,8 +14,9 @@ Contour Integration then Q9 of supplement <br />
 **EM**<br />
 9:00-12:00 S GRE Physics Mock<br />
 14:00-16:00 S Methods-Complex Variable Theory Page 477 Page647 <br />
-16:30-17:30 CS<br />
-18:30-21:30 Paper <br />
+17:30-18:30 S CS<br />
+18:30-21:30 S Paper <br />
+21:30-22:30  GR<br />
 9th Oct<br />
 **Methods;GR;Programming;GRE Q review;GRE concepts;Thermal;EM;Research**<br />
 9:00-10:00 S GRE voc <br />
