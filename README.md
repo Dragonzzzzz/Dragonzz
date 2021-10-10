@@ -13,6 +13,8 @@ Contour Integration then Q9 of supplement <br />
 **RQM**<br />
 **EM**<br />
 9:00-12:00 S GRE Physics Mock<br />
+13:00-15:00 Methods <br />
+15:00-17:00 Paper<br />
 9th Oct<br />
 **Methods;GR;Programming;GRE Q review;GRE concepts;Thermal;EM;Research**<br />
 9:00-10:00 S GRE voc <br />
