@@ -10,14 +10,14 @@ Contour Integration then Q9 of supplement <br />
 13th Oct<br />
 **3h GR, 2h Standard Model**<br />
 12th Oct<br />
-**3h RQM, 2h QMA**<br />
+**3h RQM, 2h QMA,EM,Method**<br />
 20:00-22:00 Research <br />
 11th Oct<br />
 9:00-12:00 A Paper <br />
 12:00-15:00 S Paper <br />
 15:30-17:00 A Paper <br />
 19:00-20:00 C GR <br />
-20:00-22:00 B EM <br />
+20:00-22:00 B EM page 6<br />
 10th Oct<br />
 **GR Videos, Supplement for Week 2, Questions**<br />
 **Methods;Research**<br />
