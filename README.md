@@ -10,7 +10,7 @@ Contour Integration then Q9 of supplement <br />
 11th Oct<br />
 9:00-12:00 A Paper <br />
 12:00-15:00 S Paper <br />
-15:00-17:00 GR <br />
+15:30-17:00 Paper <br />
 18:00-20:00 EM <br />
 20:00-22:00 GRE <br />
 10th Oct<br />
