@@ -8,7 +8,8 @@ Contour Integration then Q9 of supplement <br />
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
 11th Oct<br />
-9:00-12:00 Paper <br />
+9:00-12:00 A Paper <br />
+12:00-15:00 S Paper <br />
 10th Oct<br />
 **GR Videos, Supplement for Week 2, Questions**<br />
 **Methods;Research**<br />
