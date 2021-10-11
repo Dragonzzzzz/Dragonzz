@@ -7,6 +7,8 @@ Contour Integration then Q9 of supplement <br />
 2021:<br />
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+13th Oct<br />
+**3h GR**
 12th Oct<br />
 **3h RQM**
 11th Oct<br />
