@@ -21,6 +21,7 @@ This week:QM, Standard Model, EM,QED
 17:40-18:40 GR <br />
 20:00-22:00 Research <br />
 22:00-22:30 QM <br />
+Griffth 3.2.3 <br />
 11th Oct<br />
 9:00-12:00 A Paper <br />
 12:00-15:00 S Paper <br />
