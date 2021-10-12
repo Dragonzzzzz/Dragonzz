@@ -17,7 +17,7 @@ This week:QM, Standard Model, EM,QED
 11:00-12:00 S meeting <br />
 12:30-14:00 S GR <br />
 14:00-15:00 S GR live session <br />
-15:00-17:40 EM <br />
+15:00-17:40 EM page 20<br />
 17:40-18:40 GR <br />
 20:00-22:00 GRE QM <br />
 22:00-22:30 QM <br />
