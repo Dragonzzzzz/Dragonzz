@@ -19,7 +19,7 @@ This week:QM, Standard Model, EM,QED
 14:00-15:00 S GR live session <br />
 15:00-17:40 EM <br />
 17:40-18:40 GR <br />
-20:00-22:00 QMA <br />
+20:00-22:00 GRE QM <br />
 22:00-22:30 QM <br />
 Griffth 3.2.3 ; Biot-Savart Law; Toroid, B field boundary condition<br />
 11th Oct<br />
