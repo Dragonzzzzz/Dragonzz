@@ -15,10 +15,10 @@ This week:QM, Standard Model, EM,QED
 8:30-10:00 A RQM<br />
 10:00-11:00 S RQM<br />
 11:00-12:00 S meeting <br />
-12:30-14:00  GR <br />
-14:00-15:00 GR live session <br />
-15:00-17:00 EM <br />
-17:30-18:40 <br />
+12:30-14:00 S GR <br />
+14:00-15:00 S GR live session <br />
+15:00-17:40 EM <br />
+17:40-18:40 GR <br />
 20:00-22:00 Research <br />
 22:00-22:30 QM <br />
 11th Oct<br />
