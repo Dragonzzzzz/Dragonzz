@@ -18,10 +18,10 @@ GR-if no response then post forum <br />
 11:00-12:00 S meeting <br />
 12:30-14:00 S GR <br />
 14:00-15:00 S GR live session <br />
-15:00-17:40 EM page 20<br />
-17:40-18:40 GR <br />
-20:00-22:00 GRE QM <br />
-22:00-22:30 QM <br />
+15:00-17:40 S EM page 20<br />
+17:40-18:40 S GR <br />
+20:00-22:00 A GRE QM <br />
+22:00-22:30 S QM <br />
 Griffth 3.2.3 ; Biot-Savart Law; Toroid, B field boundary condition; Lenz Law<br />
 11th Oct<br />
 9:00-12:00 A Paper <br />
