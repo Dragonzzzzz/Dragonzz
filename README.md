@@ -11,6 +11,7 @@ Contour Integration then Q9 of supplement <br />
 **3h GR, 2h Standard Model**<br />
 12th Oct<br />
 **3h RQM, 2h QMA,EM,Method**<br />
+8:30-10:00 RQM<br />
 20:00-22:00 Research <br />
 11th Oct<br />
 9:00-12:00 A Paper <br />
