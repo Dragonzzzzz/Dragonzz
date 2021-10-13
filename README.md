@@ -11,7 +11,8 @@ This week:QM, Standard Model, EM,QED
 13th Oct<br />
 **3h GR, 2h Standard Model, 2h QMA; Methods(tensor)**<br />
 GR-if no response then post forum <br />
-8:30-10:00 EM <br />
+8:30-10:00 S EM <br />
+14:00-17:00 Research <br />
 12th Oct<br />
 **3h RQM, 2h QMA,EM,Method**<br />
 8:30-10:00 A RQM<br />
