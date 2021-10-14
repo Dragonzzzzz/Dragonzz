@@ -10,6 +10,7 @@ This week:QM, Standard Model, EM,QED
 7:00-8:00 Winter/Summer Research <br />
 14th Oct<br />
 everything after GRE <br />
+0:00-4:30 S paper writing <br />
 13th Oct<br />
 **3h GR, 2h Standard Model, 2h QMA; Methods(tensor)**<br />
 GR-if no response then post forum <br />
