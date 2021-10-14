@@ -15,6 +15,7 @@ everything after GRE <br />
 GR-if no response then post forum <br />
 8:30-10:00 S EM <br />
 14:00-17:00 C Research <br />
+18:00-24:00 S Paper writing <br />
 12th Oct<br />
 **3h RQM, 2h QMA,EM,Method**<br />
 8:30-10:00 A RQM<br />
