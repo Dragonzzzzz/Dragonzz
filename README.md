@@ -15,7 +15,7 @@ everything after GRE <br />
 13:00-15:00 S Graph Plot<br />
 15:30-17:30 GRE <br />
 18:00-20:00 GR <br />
-20:00-22:00 QMA <br />
+20:00-22:00 GRE QM <br />
 13th Oct<br />
 **3h GR, 2h Standard Model, 2h QMA; Methods(tensor)**<br />
 GR-if no response then post forum <br />
