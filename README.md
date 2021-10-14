@@ -12,6 +12,7 @@ This week:QM, Standard Model, EM,QED
 everything after GRE <br />
 0:00-4:30 S paper writing <br />
 12:00-13:00 S GRE voc <br />
+13:00-14:00 S Graph Plot<br />
 13th Oct<br />
 **3h GR, 2h Standard Model, 2h QMA; Methods(tensor)**<br />
 GR-if no response then post forum <br />
