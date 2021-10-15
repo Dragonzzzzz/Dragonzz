@@ -9,12 +9,16 @@ Contour Integration then Q9 of supplement <br />
 This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+16th Oct<br />
+8:00-9:00 GRE Voc<br />
+9:00-12:00 GRE Mock <br />
+12:30-15:00 RQM <br />
 15th Oct<br />
 **GR,RQM,GRE,Research**<br />
 10:30-13:00 S GR<br />
 13:00-15:00 AGRE Problems <br />
 15:00-17:00 S GRE QM <br />
-18:00-20:00 GR <br />
+18:00-20:00 S GR <br />
 20:00-22:00 Research <br />
 22:00-22:30 Metric GR <br />
 14th Oct<br />
