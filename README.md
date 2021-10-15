@@ -14,7 +14,7 @@ This week:QM, Standard Model, EM,QED
 8:30-11:30 GRE Mock <br />
 12:30-15:00 RQM <br />
 15:00-18:40 Research <br />
-20:00-22:00 Research <br />
+20:00-22:00 CS <br />
 15th Oct<br />
 **GR,RQM,GRE,Research**<br />
 10:30-13:00 S GR<br />
