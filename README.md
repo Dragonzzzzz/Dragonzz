@@ -19,8 +19,8 @@ This week:QM, Standard Model, EM,QED
 13:00-15:00 AGRE Problems <br />
 15:00-17:00 S GRE QM <br />
 18:00-20:00 S GR <br />
-20:00-22:00 Research <br />
-22:00-22:30 Metric GR <br />
+20:00-22:00 C Research <br />
+22:00-22:30 B Metric GR <br />
 14th Oct<br />
 everything after GRE <br />
 0:00-4:30 S paper writing <br />
