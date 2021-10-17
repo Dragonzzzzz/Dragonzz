@@ -10,7 +10,7 @@ This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
 17th Oct<br />
-7:30-13:00 S RQM <br />
+7:30-13:00 S QM <br />
 16th Oct<br />
 7:30-8:30 A GRE Voc<br />
 8:30-12:00 S GRE Mock <br />
