@@ -10,6 +10,7 @@ This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
 18th Oct<br />
+**PDE** <br />
 3:00-4:00 S GR <br />
 13:00-18:00 S RQM+GR <br />
 19:00-22:00 GRE <br />
