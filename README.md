@@ -12,6 +12,11 @@ This week:QM, Standard Model, EM,QED
 19th Oct<br />
 10:00-11:00 RQM live event <br />
 11:00-13:00 RQM <br />
+13:00-14:00 GR<br />
+14:00-15:00 GR live events <br />
+15:00-18:00 RQM <br />
+18:00-20:00 GR <br />
+20:00-22:00 GRE <br />
 18th Oct<br />
 **PDE** <br />
 3:00-4:00 S GR <br />
