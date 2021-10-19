@@ -9,11 +9,14 @@ Contour Integration then Q9 of supplement <br />
 This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+19th Oct<br />
+10:00-11:00 RQM live event <br />
+11:00-13:00 RQM <br />
 18th Oct<br />
 **PDE** <br />
 3:00-4:00 S GR <br />
 13:00-18:00 S RQM+GR <br />
-19:00-22:00 GRE <br />
+19:00-22:00 S GRE <br />
 17th Oct<br />
 7:30-13:00 S QM <br />
 13:00-16:00 S GR<br />
