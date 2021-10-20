@@ -10,6 +10,10 @@ This week:QM, Standard Model, EM,QED
 7:00-8:00 Winter/Summer Research <br />
 20th Oct<br />
 10:30-12:00 QM <br />
+12:00-15:00 RQM<br />
+15:00-17:00 GR<br />
+18:00-22:00 QM<br />
+22:00-23:30 QM<br />
 19th Oct<br />
 10:00-11:00 RQM live event <br />
 11:00-13:00 RQM <br />
