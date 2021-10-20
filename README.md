@@ -1,6 +1,5 @@
 # Dragonzz
 This is to end my five years of time-wasting, lazziness and negativeness. To work hard for what I want until the end of my day, from this day onwards. I had a 10 year agreement, for which I still have 4 years left. The next 4 years shall be harsh, both to compensate for the past and to build a meaningful future to my definition.<br />
-7 days from GRE Phys<br />
 **GR** <br />
 DG,Electrodynamics then supplement 2<br />
 Notation Q6 Q7 <br />
@@ -9,6 +8,8 @@ Contour Integration then Q9 of supplement <br />
 This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+20th Oct<br />
+10:30-12:00 QM <br />
 19th Oct<br />
 10:00-11:00 RQM live event <br />
 11:00-13:00 RQM <br />
