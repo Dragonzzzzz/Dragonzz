@@ -10,7 +10,10 @@ This week:QM, Standard Model, EM,QED
 7:00-8:00 Winter/Summer Research <br />
 21st Oct<br />
 7:00-13:00 QM <br />
-
+13:00-17:00 GRE <br />
+17:00-18:00 exercise<br />
+18:00-20:00 GRE <br />
+20:00-23:00 Research <br />
 20th Oct<br />
 10:30-12:00 QM <br />
 12:00-15:00 RQM<br />
