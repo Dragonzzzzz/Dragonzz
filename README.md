@@ -8,6 +8,9 @@ Contour Integration then Q9 of supplement <br />
 This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+23rd Oct<br />
+13:00-17:00 S on train; QM<br />
+19:00-23:00 S Research;Report <br />
 21st Oct<br />
 7:00-13:00 QM <br />
 13:00-17:00 GRE <br />
