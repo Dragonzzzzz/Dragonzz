@@ -9,7 +9,10 @@ This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
 24th Oct<br />
-12:00-17:00 Research <br />
+12:00-17:00 C Research <br />
+17:00-19:00 S QM Cohen<br />
+19:00-21:00 Research <br />
+21:00-23:00 RQM <br />
 23rd Oct<br />
 13:00-17:00 S on train; QM<br />
 19:00-23:00 S Research;Report <br />
