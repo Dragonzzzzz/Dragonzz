@@ -8,6 +8,8 @@ Contour Integration then Q9 of supplement <br />
 This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+25th Oct<br />
+QC173.6.H38
 24th Oct<br />
 12:00-17:00 C Research <br />
 17:00-19:00 S QM Cohen<br />
