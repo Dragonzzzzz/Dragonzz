@@ -8,6 +8,14 @@ Contour Integration then Q9 of supplement <br />
 This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+**Week 4**<br />
+Probability A <br />
+RQM<br />
+GR<br />
+Solar Hydro <br />
+Research <br />
+QMA <br />
+GRE <br />
 26th Oct<br />
 QC717.C6, GR, RQM, Research, SMH<br />
 7:00-8:00 exercise; review GR <br />
