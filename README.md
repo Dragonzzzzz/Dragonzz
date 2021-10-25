@@ -11,6 +11,9 @@ This week:QM, Standard Model, EM,QED
 25th Oct<br />
 QC173.6.H38<br />
 QC174.12.C6313<br />
+0:00-3:00 Research <br />
+10:30-13:00 GR <br />
+13:00-14:00 GRE <br />
 24th Oct<br />
 12:00-17:00 C Research <br />
 17:00-19:00 S QM Cohen<br />
