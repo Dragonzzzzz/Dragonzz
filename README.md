@@ -14,6 +14,7 @@ This week:QM, Standard Model, EM,QED
 13:00-14:00 S GRE <br />
 14:00-15:00 S Interview <br />
 15:00-17:30 S Chapter 7 "Gravity: An introduction to Einstein's General Relativity" <br />
+22:00-23:00 Plan to stay <br />
 24th Oct<br />
 12:00-17:00 C Research <br />
 17:00-19:00 S QM Cohen<br />
