@@ -9,8 +9,6 @@ This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
 25th Oct<br />
-QC173.6.H38<br />
-QC174.12.C6313<br />
 0:00-3:00 S Research <br />
 10:30-13:00 S GR <br />
 13:00-14:00 S GRE <br />
