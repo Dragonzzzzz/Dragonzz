@@ -19,6 +19,7 @@ GRE <br />
 26th Oct<br />
 QC717.C6, GR, RQM, Research, SMH<br />
 7:00-8:00 exercise; review GR <br />
+18:00-20:00 GR <br />
 25th Oct<br />
 0:00-3:00 S Research <br />
 10:30-13:00 S GR <br />
