@@ -16,6 +16,11 @@ Solar Hydro <br />
 Research <br />
 QMA <br />
 GRE <br />
+27th Oct<br />
+0:00-6:00 Research <br />
+12:00-15:00 Research <br />
+17:00-19:00 GR <br />
+
 26th Oct<br />
 QC717.C6, GR, RQM, Research, SMH<br />
 7:00-8:00 exercise; review GR <br />
