@@ -18,6 +18,7 @@ QMA <br />
 GRE <br />
 28th Oct<br />
 6:30-7:00 Breakfast+Mathematica Dr.Dmitrii<br />
+7:00-8:30 Research <br />
 27th Oct<br />
 0:00-6:00 Research <br />
 12:00-15:00 Research <br />
