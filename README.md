@@ -16,6 +16,7 @@ Solar Hydro <br />
 Research <br />
 QMA <br />
 GRE <br />
+Geometry<br />
 28th Oct<br />
 6:30-7:00 S Breakfast+Mathematica Dr.Dmitrii<br />
 7:00-8:30 S Research <br />
