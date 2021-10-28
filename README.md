@@ -20,6 +20,8 @@ GRE <br />
 6:30-7:00 S Breakfast+Mathematica Dr.Dmitrii<br />
 7:00-8:30 S Research <br />
 8:30-10:00 GR <br />
+12:00-17:00 None <br />
+18:00-19:00 None <br />
 27th Oct<br />
 0:00-6:00 Research <br />
 12:00-15:00 Research <br />
