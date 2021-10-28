@@ -24,6 +24,7 @@ Geometry<br />
 12:00-17:00 None <br />
 18:00-19:00 None <br />
 19:00-20:00 S GR <br />
+21:00-23:00 S GR <br />
 laziness never changes. To say it is laziness, I should more correctly describe it as the fear of nothingness, the fear of failure and the strong. It is necessary to overcome it, and know why it is necessary as well as the purpose of doing so.<br />
 27th Oct<br />
 0:00-6:00 Research <br />
