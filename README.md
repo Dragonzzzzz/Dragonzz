@@ -21,6 +21,9 @@ Geometry<br />
 4:30-7:00 GR <br />
 12:00-15:00 Research meeting <br />
 15:00-18:00 GR <br />
+18:00-19:00 GRE+Exercise<br />
+19:30-22:30 Project research <br />
+22:30-23:00 School Search <br />
 28th Oct<br />
 6:30-7:00 S Breakfast+Mathematica Dr.Dmitrii<br />
 7:00-8:30 S Research <br />
