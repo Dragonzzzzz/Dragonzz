@@ -17,6 +17,8 @@ Research <br />
 QMA <br />
 GRE <br />
 Geometry<br />
+30th Oct<br />
+9:00-14:00 S GR Week 5 <br />
 29th Oct<br />
 4:30-7:00 S GR <br />
 12:00-15:00 S Research meeting <br />
