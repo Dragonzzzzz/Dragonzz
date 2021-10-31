@@ -17,6 +17,8 @@ Research <br />
 QMA <br />
 GRE <br />
 Geometry<br />
+31st Oct<br />
+9:00-12:00 Modern GR Chapter 2.1 <br />
 30th Oct<br />
 9:00-14:00 S GR Week 5 <br />
 20:00-23:00 Research <br />
