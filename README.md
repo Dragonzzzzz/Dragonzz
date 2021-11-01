@@ -8,6 +8,9 @@ Contour Integration then Q9 of supplement <br />
 This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+1st Nov<br />
+20:00-22:00 GR <br />
+22:00-23:00 Nuclear Physics <br />
 **Week 4**<br />
 Probability A <br />
 RQM<br />
