@@ -16,15 +16,17 @@ This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
 2nd Nov<br />
-7:00-7:30 <br />
-7:30-9:30 <br />
-10:00-12:00 <br />
-12:00-12:30 <br />
-12:30-14:30 <br />
-14:30-17:30 <br />
-18:30-20:30 GR <br />
-20:30-22:00 Others <br />
-22:00-23:00 exercise<br />
+7:20-8:00 GRE+Breakfast<br />
+8:30-10:30 <br />
+10:30-12:30 <br />
+12:30-13:00 <br />
+13:00-15:00 <br />
+15:00-18:00 <br />
+18:00-19:00 GRE+Dinner<br />
+19:00-21:00 GR<br />
+21:00-22:00 Others<br />
+22:00-22:45 exercise<br />
+23:00-23:20 Voc<br />
 1st Nov<br />
 20:00-22:00 GR <br />
 22:00-23:00 Nuclear Physics <br />
