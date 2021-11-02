@@ -1,6 +1,6 @@
 # Dragonzz
 This is to end my five years of time-wasting, lazziness and negativeness. To work hard for what I want until the end of my day, from this day onwards. I had a 10 year agreement, for which I still have 4 years left. The next 4 years shall be harsh, both to compensate for the past and to build a meaningful future to my definition.<br />
-7:00-8:00 Bf+GRE Voc<br />
+6:50-8:00 Bf+GRE Voc<br />
 8:00-10:00 <br />
 10:00-12:00 <br />
 12:00-12:30 <br />
@@ -8,7 +8,8 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 14:30-17:30 <br />
 18:30-20:30 Research<br />
 20:30-22:00 others<br />
-22:00-23:00 exercise<br />
+22:00-22:45 exercise<br />
+23:00-23:30 Voc<br />
 2021:<br />
 This week:QM, Standard Model, EM,QED
 15th Nov<br />
