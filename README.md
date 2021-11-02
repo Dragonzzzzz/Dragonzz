@@ -7,7 +7,7 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 12:30-14:30 <br />
 14:30-17:30 <br />
 18:30-20:30 <br />
-20:30-22:00 <br />
+20:30-22:00 others<br />
 22:00-23:00 exercise<br />
 2021:<br />
 This week:QM, Standard Model, EM,QED
