@@ -23,7 +23,7 @@ This week:QM, Standard Model, EM,QED
 13:00-15:00 <br />
 15:00-18:00 <br />
 18:00-19:00 GRE+Dinner<br />
-19:00-21:00 Research<br />
+19:00-21:00 S Research<br />
 21:00-22:00 Others<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
