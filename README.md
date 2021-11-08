@@ -17,8 +17,8 @@ This week:QM, Standard Model, EM,QED
 7:00-8:00 Winter/Summer Research <br />
 8th Nov<br />
 7:20-8:00 GRE+Breakfast<br />
-8:30-10:30 S Plasma Electrodynamics <br/>
-10:30-12:30 <br />
+8:00-10:00 S Plasma Electrodynamics <br/>
+10:00-11:00 S Plasma Electrodynamics Live<br />
 12:30-13:00 <br />
 13:00-15:00 <br />
 15:00-18:00 <br />
