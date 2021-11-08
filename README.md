@@ -19,8 +19,7 @@ This week:QM, Standard Model, EM,QED
 7:20-8:00 GRE+Breakfast<br />
 8:00-10:00 S Plasma Electrodynamics <br/>
 10:00-11:00 S Plasma Electrodynamics Live<br />
-12:30-13:00 <br />
-13:00-15:00 <br />
+11:00-15:00 Break<br />
 15:00-18:00 <br />
 18:00-19:00 GRE+Dinner<br />
 19:00-21:00 Research<br />
