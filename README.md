@@ -22,9 +22,9 @@ This week:QM, Standard Model, EM,QED
 12:30-13:00 <br />
 13:00-15:00 <br />
 15:00-18:00 <br />
-18:00-19:00 S GR<br />
-19:00-21:00 Research<br />
-21:00-22:00 Others<br />
+18:00-20:00 S Exercise<br />
+20:00-21:00 Research<br />
+21:00-22:00 Neutrino Physics<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
 9th Nov<br />
