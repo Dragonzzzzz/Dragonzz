@@ -19,9 +19,9 @@ This week:QM, Standard Model, EM,QED
 7:20-8:00 GRE+Breakfast<br />
 8:30-10:30 <br />
 10:30-12:30 <br />
-12:30-13:00 Thermal<br />
+12:30-13:00 S Thermal<br />
 Combination<br />
-13:00-15:00 <br />
+13:00-15:00 Neutrino<br />
 15:00-18:00 <br />
 18:00-20:00 S Exercise<br />
 20:00-21:00 Research<br />
