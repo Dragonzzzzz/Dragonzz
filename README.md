@@ -16,7 +16,8 @@ This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
 12th Nov<br />
-4:00-6:30 S Research <br />
+4:00-6:00 S Research <br />
+6:00-7:00 S School Search<br />
 7:20-8:00 GRE+Breakfast<br />
 8:30-10:30 <br />
 10:30-12:30 <br />
