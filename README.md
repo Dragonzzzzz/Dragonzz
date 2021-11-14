@@ -17,6 +17,18 @@ This week:QM, Standard Model, EM,QED
 7:00-8:00 Winter/Summer Research <br />
 14th Nov<br />
 Plasma Electrodynamics <br />
+7:20-8:00 GRE+Breakfast<br />
+8:30-10:30 <br />
+10:30-12:30 <br />
+12:30-13:00 <br />
+13:00-15:00 <br />
+15:00-18:00 <br />
+18:00-19:00 GRE+Dinner<br />
+19:00-21:00 GR Week 1 to 4 <br />
+21:00-22:00 GR Week 1 to 4 <br />
+22:00-22:45 GR week 1 to 4<br />
+23:00-23:20 GR week 1 to 4<br />
+23:30-Sleep Plasma Electrodynamics <br />
 13th Nov<br />
 7:20-8:00 GRE+Breakfast<br />
 8:30-10:30 <br />
