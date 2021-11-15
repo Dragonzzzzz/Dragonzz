@@ -15,6 +15,7 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
+12:30-14:00 Plasma Electrodynamics<br />
 14th Nov<br />
 Plasma Electrodynamics <br />
 7:20-8:00 GRE+Breakfast<br />
