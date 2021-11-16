@@ -12,6 +12,18 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
 2021:<br />
+16th Nov<br />
+7:20-8:00 GRE+Breakfast<br />
+8:30-10:30 <br />
+10:30-12:30 <br />
+12:30-13:00 <br />
+13:00-15:00 <br />
+15:00-18:00 <br />
+18:00-19:00 GRE+Dinner<br />
+19:00-21:00 Research<br />
+21:00-22:00 S Neutrino Physics<br />
+22:00-22:45 Neutrino Physics<br />
+23:00-23:20 Voc<br />
 This week:QM, Standard Model, EM,QED
 15th Nov<br />
 7:00-8:00 Winter/Summer Research <br />
