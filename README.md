@@ -18,9 +18,7 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 10:30-12:30 <br />
 12:30-13:00 <br />
 13:00-15:00 <br />
-15:00-18:00 General Relativity<br />
-18:00-19:00 GRE+Dinner<br />
-19:00-21:00 Research<br />
+17:00-20:00 General Relativity<br />
 21:00-22:00 Others<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
