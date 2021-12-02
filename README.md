@@ -15,10 +15,10 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 2nd Dec<br />
 6:30-8:00 Fill Up Record<br />
 8:30-10:00 GRE and breakfast<br />
-10:30-12:30 <br />
-12:30-13:00 <br />
-13:00-15:00 <br />
-15:00-18:00 <br />
+10:00-11:00 Project Meeting <br />
+11:00-12:00 GR to C2<br />
+13:00-15:00 GR to C3<br />
+15:00-18:00 SMHD<br />
 18:00-19:00 GRE+Dinner<br />
 19:00-21:00 Research<br />
 21:00-22:00 Others<br />
