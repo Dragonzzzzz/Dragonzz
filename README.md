@@ -16,12 +16,12 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 6:00-7:00 S Solar MHD<br />
 7:00-8:00 S Solar MHD <br />
 8:00-10:00 A Solar MHD<br />
-10:30-13:30 Sleep <br />
-12:30-13:00 <br />
+10:30-15:00 Sleep <br />
 13:00-15:00 GR<br />
 15:00-16:00 Lecture<br />
-18:00-19:00 GRE+Dinner<br />
-19:00-21:00 Research<br />
+16:00-17:00 Lecture<br />
+17:00-18:00 Eat+GRE<br />
+18:00-21:00 Solar MHD<br />
 21:00-22:00 Calculate Marks+Preliminary Works of future courses<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
