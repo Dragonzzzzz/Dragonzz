@@ -21,9 +21,9 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 15:00-16:00 Lecture<br />
 16:00-17:00 Lecture<br />
 17:00-18:00 Eat+GRE<br />
-18:00-21:00 Solar MHD<br />
-21:00-22:00 Calculate Marks+Preliminary Works of future courses<br />
-22:00-22:45 exercise<br />
+18:00-21:00 B Solar MHD<br />
+21:00-22:00 S Solar MHD<br />
+22:00-22:45 S Neutrino<br />
 23:00-23:20 Voc<br />
 2nd Dec<br />
 6:30-8:00 Fill Up Record<br />
