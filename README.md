@@ -13,9 +13,9 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 23:00-23:20 Voc<br />
 2021:<br />
 3rd Dec<br />
-6:00-7:00 Solar MHD<br />
-7:00-8:00 Solar MHD<br />
-8:00-10:00 GRE Voc<br />
+6:00-7:00 S Solar MHD<br />
+7:00-8:00 S solarMHs<br />
+8:00-10:00 Solar MHD<br />
 10:30-12:30 SolarMHD<br />
 12:30-13:00 <br />
 13:00-15:00 GR<br />
