@@ -15,8 +15,8 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 3rd Dec<br />
 6:00-7:00 S Solar MHD<br />
 7:00-8:00 S Solar MHD <br />
-8:00-10:00 Solar MHD<br />
-10:30-12:30 SolarMHD<br />
+8:00-10:00 A Solar MHD<br />
+10:30-13:30 Sleep <br />
 12:30-13:00 <br />
 13:00-15:00 GR<br />
 15:00-16:00 Lecture<br />
