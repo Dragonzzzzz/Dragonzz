@@ -21,7 +21,8 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 13:00-14:00 S Solar MHD<br />
 14:00-15:00 S Solar MHD<br />
 16:00-17:00 S Solar MHD<br />
-18:00-20:00 Voc<br />
+18:00-19:00 S Solar MHD<br />
+19:00-20:00 Voc<br />
 20:00-21:00 Probability A<br />
 21:00-22:00 Probability A<br />
 4th Dec<br />
