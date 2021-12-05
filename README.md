@@ -12,6 +12,18 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
 2021:<br />
+5th Dec<br />
+7:00-8:00 S Solar MHD<br />
+8:00-9:00 S Solar MHD<br />
+9:00-10:00 S Solar MHD<br />
+10:00-11:00 S Solar MHD<br />
+11:00-12:00 S Solar MHD<br />
+13:00-14:00 S Solar MHD<br />
+14:00-15:00 S Solar MHD<br />
+16:00-17:00 S Solar MHD<br />
+18:00-20:00 Voc<br />
+20:00-21:00 Probability A<br />
+21:00-22:00 Probability A<br />
 4th Dec<br />
 7:20-8:00 GRE+Breakfast<br />
 10:30-12:30 Solar MHD<br /> 
