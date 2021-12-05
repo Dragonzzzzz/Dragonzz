@@ -18,7 +18,7 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 9:00-10:00 S Solar MHD<br />
 10:00-11:00 A Solar MHD<br />
 11:00-12:00 S Solar MHD<br />
-13:00-14:00 S Solar MHD<br />
+13:00-14:00 B Solar MHD<br />
 14:00-15:00 S Solar MHD<br />
 16:00-17:00 S Solar MHD<br />
 18:00-19:00 S Solar MHD<br />
