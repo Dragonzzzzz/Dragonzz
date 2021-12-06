@@ -11,7 +11,21 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 21:00-22:00 Others<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
+
 2021:<br />
+7th Dec<br />
+6:30-7:00 Research Record <br />
+7:20-8:00 GRE+Breakfast<br />
+8:30-10:00 Solar MHD <br />
+10:00-11:00 GR <br />
+11:00-12:00 Research Meeting<br />
+13:00-15:00 <br />
+15:00-18:00 <br />
+18:00-19:00 GRE+Dinner<br />
+19:00-21:00 Research<br />
+21:00-22:00 Others<br />
+22:00-22:45 exercise<br />
+23:00-23:20 Voc<br />
 5th Dec<br />
 7:00-8:00 S Solar MHD<br />
 8:00-9:00 S Solar MHD<br />
