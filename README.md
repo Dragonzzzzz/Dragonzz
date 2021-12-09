@@ -13,6 +13,16 @@ This is to end my five years of time-wasting, lazziness and negativeness. To wor
 23:00-23:20 Voc<br />
 
 2021:<br />
+9th Dec:Solar MHD, Plasma Electrodynamics, GRE<br />
+10:00-11:00 Solar MHD <br />
+11:00-12:00 Research Meeting<br />
+13:00-15:00 Solar MHD<br />
+15:00-18:00 Modern Electromagnetism<br />
+18:00-19:00 GRE+Dinner<br />
+19:00-21:00 Solar MHD<br />
+21:00-22:00 Others<br />
+22:00-22:45 exercise<br />
+23:00-23:20 Voc<br />
 7th Dec:Solar MHD, Plasma Electrodynamics, GRE<br />
 5:00-6:00 GRE voc<br />
 6:00-7:00 Solar MHD<br />
