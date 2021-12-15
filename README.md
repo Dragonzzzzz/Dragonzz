@@ -14,6 +14,12 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 
 2021:<br />
 15th Dec: GRE 1500, Solar MHD, Classical<br />
+8:30-10:30 Solar MHD -> L7 <br />
+11:00-12:30 ->L10 <br />
+13:30-15:30 ->L13 <br />
+16:00-18:00 Finish <br />
+19:00-21:00 GRE voc <br />
+21:00-22:00 Classical <br />
 10th Dec:Solar MHD, Plasma Electrodynamics, GRE<br />
 19:00-21:00 Review CM<br />
 23:00-Sleep M&M,y',z' <br />
