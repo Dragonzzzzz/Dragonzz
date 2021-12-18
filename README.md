@@ -13,6 +13,11 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 23:00-23:20 Voc<br />
 
 2021:<br />
+18th Dec:GRE 100;Solar MHD, Classical<br />
+6:00-7:00<br />
+8:00-9:00<br />
+9:00-10:00<br />
+10:00-11:00<br />
 15th Dec: GRE 1500, Solar MHD, Classical<br />
 8:30-10:30 A Solar MHD -> L7 <br />
 11:00-12:30 ->L10 <br />
