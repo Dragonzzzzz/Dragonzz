@@ -17,7 +17,7 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 6:00-7:00 L7 SMHD<br />
 18th Dec:GRE 100;Solar MHD, Classical,GR-W5<br />
 8:00-9:00<br />Theoretical Minimum:CM L1<br />
-9:00-10:00<br />
+9:00-10:00<br /> Theoretical Minimum:CM L2<br />
 10:00-11:00<br />
 15th Dec: GRE 1500, Solar MHD, Classical<br />
 8:30-10:30 A Solar MHD -> L7 <br />
