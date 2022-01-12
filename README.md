@@ -11,6 +11,10 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 21:00-22:00 Others<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
+2022:<br />
+12th Jan<br />
+16:00-17:00 Lecture 7 MHD<br />
+17:00-20:00 Lecture 8~10 MHD<br />
 
 2021:<br />
 19th Dec<br />
