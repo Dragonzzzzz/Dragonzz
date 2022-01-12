@@ -15,7 +15,7 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 12th Jan<br />
 16:00-17:00 Lecture 7 MHD<br />
 17:00-20:00 Lecture 8~10 MHD<br />
-
+20:00-22:00 Research Review<br />
 2021:<br />
 19th Dec<br />
 6:00-7:00 L7 SMHD<br />
