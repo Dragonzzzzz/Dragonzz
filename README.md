@@ -11,11 +11,9 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 21:00-22:00 Others<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
-2022:<br />
-12th Jan<br />
-16:00-17:00 Lecture 7 MHD<br />
-17:00-20:00 Lecture 8~10 MHD<br />
-20:00-22:00 Research Review<br />
+2022 3 months training:<br />
+14th Jan<br />
+6:30-8:00 Research <br />
 2021:<br />
 19th Dec<br />
 6:00-7:00 L7 SMHD<br />
