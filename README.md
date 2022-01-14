@@ -12,7 +12,7 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
 2022 3 months training:<br />
-14th Jan<br />
+14th Jan SMHD,Probability A<br />
 6:30-8:00 Research <br />
 2021:<br />
 19th Dec<br />
