@@ -15,6 +15,7 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 19th Jan<br />
 8:00-9:00 Waves and Vibrations Chapter 5 <br />
 9:00-10:00 Vibrations and Waves<br />
+17:00-18:00 V&W<br />
 10:30-12:30 Research <br />
 22:00-23:00 Application <br />
 14th Jan SMHD,Probability A<br />
