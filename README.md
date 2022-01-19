@@ -14,6 +14,8 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 2022 3 months training:<br />
 19th Jan<br />
 8:00-9:00 Waves and Vibrations Chapter 5 <br />
+9:00-10:00 Vibrations and Waves<br />
+10:00-12:00 Research <br />
 14th Jan SMHD,Probability A<br />
 6:30-8:00 Research <br />
 2021:<br />
