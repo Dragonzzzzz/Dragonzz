@@ -12,6 +12,10 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
 2022 3 months training:<br />
+3rd Feb<br />
+4:00-5:00 Research <br />
+5:00-6:00 Wave<br />
+7:00-8:00 Research <br />
 19th Jan<br />
 8:00-9:00 Waves and Vibrations Chapter 5 <br />
 9:00-10:00 Vibrations and Waves<br />
