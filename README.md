@@ -14,6 +14,7 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 2022 3 months training:<br />
 10th march <br />
 14:00-17:00 Summary of what is done in mathematica of project <br />
+21:00-22:00 Personal Statement <br />
 3rd Feb<br />
 4:00-5:00 Research <br />
 5:00-6:00 Wave<br />
