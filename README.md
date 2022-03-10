@@ -13,7 +13,7 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 23:00-23:20 Voc<br />
 2022 3 months training:<br />
 10th march <br />
-14:00-15:00 Summary of what is done in mathematica of project <br />
+14:00-17:00 Summary of what is done in mathematica of project <br />
 3rd Feb<br />
 4:00-5:00 Research <br />
 5:00-6:00 Wave<br />
