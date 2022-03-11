@@ -12,6 +12,13 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
 2022 3 months training:<br />
+12th march<br />
+1. Report Writing results part mainly complete<br />
+2. Theory Part start<br />
+3. GR to week 2 <br />
+4. AI 2 hours <br />
+11th march<br />
+21:00-23:00 Report Writing Results Part<br />
 10th march <br />
 14:00-17:00 Summary of what is done in mathematica of project <br />
 21:00-22:00 Personal Statement <br />
