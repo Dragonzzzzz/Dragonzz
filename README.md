@@ -13,7 +13,7 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 23:00-23:20 Voc<br />
 2022 3 months training:<br />
 14th March<br />
-10:00-12:00 Linkedin Career Webinar Online<br />
+10:00-12:00 Linkedin Career Webinar Online(https://myadvantage.warwick.ac.uk/students/events/Detail/2362248)<br />
 13th March <br />
 11:00-13:00 Project<br />
 13:00-15:00 GR <br />
