@@ -12,6 +12,12 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
 2022 3 months training:<br />
+13th March <br />
+11:00-13:00 Project<br />
+13:00-15:00 GR <br />
+15:00-17:00 Project<br />
+17:00-19:00 Project<br />
+19:00-21:00 PS<br />
 12th march<br />
 1. Report Writing results part mainly complete<br />
 2. Theory Part start<br />
