@@ -23,7 +23,7 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 2. Theory Part start<br />
 3. GR to week 2 <br />
 4. AI 2 hours <br />
-5. PS <br />
+5. PS+School Search <br />
 9:00-10:00 Centroid Thing <br />
 11th march<br />
 21:00-23:00 Report Writing Results Part<br />
