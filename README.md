@@ -20,6 +20,7 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 15:00-17:00 Project<br />
 17:00-19:00 Project<br />
 19:00-21:00 PS<br />
+22:00-23:00 WIP<br />
 12th march<br />
 1. Report Writing results part mainly complete<br />
 2. Theory Part start<br />
