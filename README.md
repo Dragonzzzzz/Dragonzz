@@ -12,8 +12,11 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
 2022 3 months training:<br />
+16th March<br />
 15th March<br />
 WIP application workshop https://myadvantage.warwick.ac.uk/students/events/Detail/2365725 <br />
+add to intro <br />
+stress novelty of centroid<br />
 14th March<br />
 10:00-12:00 Linkedin Career Webinar Online(https://myadvantage.warwick.ac.uk/students/events/Detail/2362248)<br />
 21:00-22:00check pinned email <br />
