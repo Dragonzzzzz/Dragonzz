@@ -13,7 +13,7 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 23:00-23:20 Voc<br />
 2022 3 months training:<br />
 19th March<br />
-13:30-20:30 GR <br />
+13:30-20:30 GR: Notation Q7 <br />
 16th March<br />
 15th March<br />
 WIP application workshop https://myadvantage.warwick.ac.uk/students/events/Detail/2365725 <br />
