@@ -12,6 +12,10 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
 2022 3 months training:<br />
+This week:<br />
+1.Thermal <br />
+2. LA<br />
+3. GR<br />
 24th March<br />
 Week 3,4 GR<br />
 L.A Oxford page 25 <br />
