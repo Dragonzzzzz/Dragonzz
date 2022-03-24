@@ -12,6 +12,9 @@ I had a 10 year agreement, for which I still have 4 years left.<br />
 22:00-22:45 exercise<br />
 23:00-23:20 Voc<br />
 2022 3 months training:<br />
+24th March<br />
+Week 3,4 GR<br />
+L.A Oxford page 25 <br />
 19th March<br />
 13:30-20:30 GR: Notation Q7 <br />
 16th March<br />
