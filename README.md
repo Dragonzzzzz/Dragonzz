@@ -16,6 +16,11 @@ This week:<br />
 1.Thermal <br />
 2. LA<br />
 3. GR<br />
+25th March<br />
+1. Thermal<br />
+2. Tensor finish<br />
+3. LA to page 25<br />
+4. Plasma Electrodynamics chapter 1,2 and problems<br />
 24th March<br />
 Week 3,4 GR<br />
 L.A Oxford page 25 <br />
